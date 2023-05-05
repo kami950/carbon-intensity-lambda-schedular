@@ -1,0 +1,8 @@
+.idea
+.terraform
+*.terraform.*
+.DS_Store
+*.tfplan
+*.tfstate*
+node_modules
+lambda_src.zip
